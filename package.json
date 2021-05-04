@@ -4,9 +4,17 @@
   "description": "",
   "main": "primerasPruebas.test.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest" 
   },
   "keywords": [],
-  "author": "Juan Carlos Suárez",
-  "license": "ISC"
+  "author": "Juan Carlos Suarez",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcarlosse/jest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jcarlosse/jest/issues"
+  },
+  "homepage": "https://github.com/jcarlosse/jest#readme"
 }
